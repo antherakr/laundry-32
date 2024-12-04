@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema default aplikasi -->
+    <style name="Theme.LAUNDRY" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/hijau1</item>
+        <item name="colorPrimaryVariant">@color/hijau2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/hijau2</item>
+        <item name="colorOnSurface">@color/black</item>
+    </style>
+
+</resources>
